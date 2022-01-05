@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-Describe your project
+A template for your V13 discord bot with slash(/) commands using mongodb for databases
 
 ## :sparkles: Features ##
 
@@ -58,15 +58,15 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Discord.js](https://discord.js.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Yarn](https://yarnpkg.com) (or Node.js) installed.
 
 ## :checkered_flag: Starting ##
 
@@ -88,7 +88,7 @@ $ yarn start
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is free to use and distribute under the MIT license.
 
 
 Made with :heart: by <a href="https://github.com/Imperiator_" target="_blank">Imperiator_</a>
