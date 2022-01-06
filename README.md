@@ -15,7 +15,7 @@
 
   <img alt="Github forks" src="https://img.shields.io/github/forks/Imperiator/Discord-Bot-Template">
 
-  <img alt="Repository size" src="https://img.shields.io//github/languages/code-size/Imperiator/Discord-Bot-Template">
+  <img alt="Repository size" src="https://img.shields.io/github/languages/code-size/Imperiator/Discord-Bot-Template">
 
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Imperiator_/Discord-Bot-Template" /> -->
