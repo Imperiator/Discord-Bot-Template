@@ -9,19 +9,19 @@
 <h1 align="center">Discord-Bot-Template</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Imperiator_/Discord-Bot-Template?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Imperiator_/Discord-Bot-Template">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Imperiator_/Discord-Bot-Template?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Imperiator_/Discord-Bot-Template">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Imperiator_/Discord-Bot-Template?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Imperiator_/Discord-Bot-Template">
 
-  <img alt="License" src="https://img.shields.io/github/license/Imperiator_/Discord-Bot-Template?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/Imperiator_/Discord-Bot-Template">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Imperiator_/Discord-Bot-Template?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Imperiator_/Discord-Bot-Template" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Imperiator_/Discord-Bot-Template?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Imperiator_/Discord-Bot-Template" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Imperiator_/Discord-Bot-Template?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Imperiator_/Discord-Bot-Template" /> -->
 </p>
 
 <!-- Status -->
@@ -50,9 +50,9 @@ A template for your V13 discord bot with slash(/) commands using mongodb for dat
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Slash commands
+:heavy_check_mark: DataBases using mongodb (mongoose)
+:heavy_check_mark: Using Discord.js V13 latest version
 
 ## :rocket: Technologies ##
 
@@ -85,6 +85,8 @@ $ yarn start
 
 # The server will initialize in the <http://localhost:3000>
 ```
+
+Don't forget to change ``.env.example`` to ``.env`` and replace placeholders with your own data.
 
 ## :memo: License ##
 
