@@ -83,7 +83,7 @@ $ yarn
 # Run the project
 $ yarn start
 
-# The server will initialize in the <http://localhost:3000>
+# Bot is running !
 ```
 
 Don't forget to change ``.env.example`` to ``.env`` and replace placeholders with your own data.
