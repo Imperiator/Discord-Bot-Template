@@ -9,13 +9,14 @@
 <h1 align="center">Discord-Bot-Template</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Imperiator_/Discord-Bot-Template">
+  <img alt="Github issues" src="https://img.shields.io/github/issues/Imperiator/Discord-Bot-Template">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Imperiator_/Discord-Bot-Template">
+  <img alt="Github stars" src="https://img.shields.io/github/stars/Imperiator/Discord-Bot-Template">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Imperiator_/Discord-Bot-Template">
+  <img alt="Github forks" src="https://img.shields.io/github/forks/Imperiator/Discord-Bot-Template">
 
-  <img alt="License" src="https://img.shields.io/github/license/Imperiator_/Discord-Bot-Template">
+  <img alt="Repository size" src="https://img.shields.io//github/languages/code-size/Imperiator/Discord-Bot-Template">
+
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Imperiator_/Discord-Bot-Template" /> -->
 
