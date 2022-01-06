@@ -50,9 +50,9 @@ A template for your V13 discord bot with slash(/) commands using mongodb for dat
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Slash commands
-:heavy_check_mark: DataBases using mongodb (mongoose)
-:heavy_check_mark: Using Discord.js V13 latest version
+:heavy_check_mark: Slash commands;\
+:heavy_check_mark: DataBases using mongodb (mongoose);\
+:heavy_check_mark: Using Discord.js V13 latest version;
 
 ## :rocket: Technologies ##
 
