@@ -94,7 +94,7 @@ Don't forget to change ``.env.example`` to ``.env`` and replace placeholders wit
 This project is free to use and distribute under the MIT license.
 
 
-Made with :heart: by <a href="https://github.com/Imperiator_" target="_blank">Imperiator_</a>
+Made with :heart: by <a href="https://github.com/Imperiator" target="_blank">Imperiator_</a>
 
 &#xa0;
 
